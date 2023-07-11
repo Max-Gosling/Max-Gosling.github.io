@@ -6,8 +6,8 @@
     <title>Document</title>
 </head>
 <body>
-    <div>
-        Как-то раз смотрел я Драйв(2011)
-    </div>
+    <main>
+    <div>Как-то раз смотрел я Драйв(2011)</div>
+    </main>
 </body>
 </html>
